@@ -91,7 +91,7 @@ SSD
 
 ## Teacher Training
 
-Follow all the instructions provided in the Original PainAttentionNet Repository to setup and preprocess Biovid Dataset. 
+Follow all the instructions provided in the original PainAttentionNet Repository to setup and preprocess Dataset. 
 The per fold models trained should be stored to be later used at teacher models in student training.
 
 Link to PAN Repository: https://github.com/zhenyuanlu/PainAttnNet/tree/main
