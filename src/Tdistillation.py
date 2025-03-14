@@ -195,4 +195,4 @@ if __name__ == '__main__':
     results_fold_dir = os.path.join(args.results_dir, f'fold_{args.fold_id}')
     os.makedirs(results_fold_dir, exist_ok=True)
     
-    train_knowledge_distillation(config,20, args.fold_id, data_dir, args.teacher_model_path, args.results_dir, device,T=args.T, at_loss_weight=args.at_loss_weight, ce_loss_weight=args.ce_loss_weight)
+    train_knowledge_distillation(config,30, args.fold_id, data_dir, args.teacher_model_path, args.results_dir, device,T=args.T, at_loss_weight=args.at_loss_weight, ce_loss_weight=args.ce_loss_weight)
