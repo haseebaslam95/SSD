@@ -39,10 +39,9 @@ additional computational cost compared to existing approaches.
 ## Directory Structure
 ```python
 SSD
-|   environment.yml # Requirements for conda environment
 |   LICENSE
 |   README.md
-|   requirments.txt # Requirements for pip environment
+|   requirements.txt # Requirements for pip environment
 |   
 |
 |   batch_distillation.sh # Training script if you wish to run from terminal
