@@ -1,4 +1,4 @@
-## Learning from Stochastic Teacher Representations Using Student-Guided Knowledge Distillationng 
+## Learning from Stochastic Teacher Representations Using Student-Guided Knowledge Distillation
 
 
 
